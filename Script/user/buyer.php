@@ -235,18 +235,7 @@ About Us
 <span>Account</span>
 </a>
 </li>
-<li>
-<a href="Messaging">
-<i class="lni-layers"></i>
-<span>Messaging</span>
-</a>
-</li>
-<li>
-<a href="wishlist">
-<i class="lni-cloud-check"></i>
-<span>My Wishlist</span>
-</a>
-</li>
+
 <li>
 <a href="../logout">
 <i class="lni-enter"></i>
